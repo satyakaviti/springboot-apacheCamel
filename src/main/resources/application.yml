@@ -1,0 +1,7 @@
+spring:
+  application:
+  name: simple-camel-springboot
+  ## makes to run unless we say to stop ##
+camel:
+  springboot:
+    main-run-controller: true
